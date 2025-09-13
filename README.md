@@ -81,7 +81,7 @@
     <p>Digital enigma. Lurking behind the light.<br>
        You found me — but will you understand?</p>
     <div class="container">
-   <strong> <h2>"As I walk Through The Valley of the Shadow of Death" - Coolio <div class <h2> </strong>
+   <strong> <h2>"As I walk Through The Valley of the Shadow of Death" - Coolio <div class <h2> <strong>
 <h4 class="about-title">About Me</h4>
 <div class="about-me">
  <h6 class="glow-text">• Experienced Brick Rigs builder</h6>
