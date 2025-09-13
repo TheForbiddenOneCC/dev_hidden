@@ -123,6 +123,8 @@
 }
 </style>
 
+
+<style>
   /* Glow */
   text-shadow:
     0 0 5px #ff007a,
