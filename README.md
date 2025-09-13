@@ -32,7 +32,16 @@
       box-shadow: 0 0 20px rgba(255, 255, 255, 0.1);
       max-width: 700px;
     }
-
+    
+    .container2 {
+      text-align: center;
+      padding: 5px;
+      background: rgba(0, 0, 0, 0.6);
+      border-radius: 16px;
+      box-shadow: 0 0 20px rgba(255, 255, 255, 0.1);
+      max-width: 700px;
+    }
+    
     h1 {
       font-size: 3em;
       margin-bottom: 0.5em;
@@ -80,7 +89,7 @@
     <h1>The_Hidden_One</h1>
     <p>Digital enigma. Lurking behind the light.<br>
        You found me — but will you understand?</p>
-<div class="body">
+<div class="container2">
    <strong> <h2>"As I walk Through The Valley of the Shadow of Death" - Coolio <h2> <strong>
 <h4 class="about-title">About Me</h4>
 <div class="about-me">
