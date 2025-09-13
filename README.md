@@ -120,7 +120,7 @@
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   margin-bottom: 0.5em;
-}
+
 </style>
 
 
