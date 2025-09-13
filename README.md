@@ -113,12 +113,12 @@
 <style>
 .tiny-text {
   margin-top: 2em;
-   font-size: 1.2em;
-   font-weight: bold;
-   background: linear-gradient(90deg, #00ff80, #00ffff, #0080ff);
-   -webkit-background-clip: text;
-   -webkit-text-fill-color: transparent;
-   margin-bottom: 0.5em;
+  font-size: 1.2em;
+  font-weight: bold;
+  background: linear-gradient(90deg, #00ff80, #00ffff, #0080ff);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  margin-bottom: 0.5em;
 }
 
   /* Glow */
