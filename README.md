@@ -106,5 +106,3 @@
     0 0 15px #00ffe0;
 }
 </style>
-</body>
-</html>
