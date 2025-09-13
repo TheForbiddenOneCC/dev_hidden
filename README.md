@@ -93,10 +93,10 @@
    <strong> <h2>"As I walk Through The Valley of the Shadow of Death" - Coolio <h2> <strong>
 <h4 class="about-title">About Me</h4>
 <div class="about-me">
- <h6 class="about-title">• Experienced Brick Rigs builder</h6>
-  <h6 class="about-title">• Garry's Mod Photon vehicle developer</h6>
-  <h6 class="about-title">• Photography enjoyer</h6>
-  <h6 class="about-title">• Batch file coder</h6>
+ <h6 class="tiny-text">• Experienced Brick Rigs builder</h6>
+  <h6 class="tiny-text">• Garry's Mod Photon vehicle developer</h6>
+  <h6 class="tiny-text">• Photography enjoyer</h6>
+  <h6 class="tiny-text">• Batch file coder</h6>
 </div>
 
 <style>
@@ -108,6 +108,17 @@
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   margin-bottom: 0.5em;
+
+  <style>
+.tiny-text {
+  margin-top: 2em;
+  font-size: 1.2em;
+  font-weight: bold;
+  background: linear-gradient(90deg, #00ff80, #00ffff, #0080ff);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  margin-bottom: 0.5em;
+
 
   /* Glow */
   text-shadow:
