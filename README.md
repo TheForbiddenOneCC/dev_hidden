@@ -109,7 +109,7 @@
   -webkit-text-fill-color: transparent;
   margin-bottom: 0.5em;
 
-  <style>
+<style>
 .tiny-text {
   margin-top: 2em;
   font-size: 1.2em;
